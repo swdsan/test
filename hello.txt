@@ -1,6 +1,5 @@
 Hello GitHub!
-Hello GitHub!
-test
+
 Hello GitHub!
 Hello GitHub!
 test
